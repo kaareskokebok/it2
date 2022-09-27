@@ -1,3 +1,4 @@
+# Løsning av Sebastian Schumann
 import time
 
 tid = int(input("Oppgi et tall som må være minst 3 og samtidig mer enn 10 "))
