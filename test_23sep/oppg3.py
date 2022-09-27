@@ -1,3 +1,4 @@
+# Løsning av Sebastian Schumann
 tall = 3
 summ = tall
 while tall < 200:
